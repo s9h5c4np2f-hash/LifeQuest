@@ -8,7 +8,7 @@
 
 ## 🎮 Core Features
 
-- **Adaptive Daily Quests** — Server-generated missions based on your activity patterns
+- **Adaptive Daily Quests** — Server-generated missions based on your activity pattern
 - **Character Progression** — Level 1–99+, 6 attributes (Intellect, Strength, Discipline, Vitality, Focus, Social)
 - **Streaks & Momentum** — Daily streak tracking with compounding rewards
 - **Gold Economy** — Earn from quests, spend in the Armory on cosmetics & titles
